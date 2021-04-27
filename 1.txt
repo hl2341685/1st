@@ -1,4 +1,4 @@
-﻿央视
+﻿央视,#genre#
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8$蓝光8M
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8$蓝光
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
@@ -124,7 +124,7 @@ CGTN,http://39.135.138.59:18890/PLTV/88888910/224/3221225896/index.m3u8
 CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8$蓝光
 纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
-卫视
+卫视,#genre#
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8$蓝光8M
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8$蓝光
 北京卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225673/index.m3u8
@@ -323,7 +323,7 @@ CGTN纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8$蓝光
 山东教育,http://39.135.138.59:18890/PLTV/88888910/224/3221225719/index.m3u8
 山东教育,http://117.169.124.37:6610/ysten-businessmobile/live/shandongjy/yst.m3u8
-港台
+港台,#genre#
 凤凰中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 凤凰中文,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
@@ -434,8 +434,8 @@ FOX体育2,rtmp://59.124.75.156:1935/sat/tv741
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-影视
-NewTV
+影视,#genre#
+NewTV,#genre#
 NewTV江西,http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8$蓝光
 NewTV江西,http://39.135.138.59:18890/PLTV/88888910/224/3221225979/index.m3u8
 NewTV金牌综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8$蓝光
@@ -495,7 +495,7 @@ NewTV炫舞未来,http://39.135.138.59:18890/PLTV/88888910/224/3221225707/index.
 黑莓动画,http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8$蓝光
 黑莓动画,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 黑莓动画,http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
-iHot
+iHot,#genre#
 IHOT爱奇谈,http://112.17.40.150/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
 IHOT爱玩具,http://112.17.40.150/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
 IHOT爱电竞,http://112.17.40.150/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
